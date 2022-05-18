@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Binding.Io.CoilKt.CoilVideo</id>
+    <version>2.0.0</version>
+    <title>Binding.Io.CoilKt.CoilVideo</title>
+    <authors>Matheus Souza</authors>
+    <owners>Matheus Souza</owners>
+    <projectUrl>https://github.com/coil-kt/coil</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Coil Binding.</description>
+    <copyright>Copyright 2022</copyright>
+
+    <dependencies>
+
+        <dependency id="Binding.Io.CoilKt.CoilBase" version="2.0.0" />
+
+    </dependencies>
+
+  </metadata>
+</package>

@@ -1,0 +1,7 @@
+**/AndroidBuild
+**/bin
+**/obj
+**/.vs
+**/*.dll
+**/*.nupkg
+**/*.DS_Store
